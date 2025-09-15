@@ -27,6 +27,7 @@ df=pd.read_csv("/content/SAMPLEIDS.csv")
 print(df)
 ```
 <img width="867" height="732" alt="image" src="https://github.com/user-attachments/assets/17677452-943b-4992-ba0c-770d2c9957cd" />
+
 ```
 df.head()
 ```

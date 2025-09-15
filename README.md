@@ -110,6 +110,7 @@ rid=ir[((ir.sepal_width<(q1-1.5*iqr))|(ir.sepal_width>(q3+1.5*iqr)))]
 print(rid['sepal_width'])
 ```
 
+
 <img width="471" height="148" alt="image" src="https://github.com/user-attachments/assets/e63be7a9-5cd7-499b-8b92-782a83b75b54" />
 
 ```
